@@ -1,1 +1,1 @@
-React v!7 - Mobx - Mobx-React - Typescript Template Project
+React v17 - Mobx - Mobx-React - Typescript Template Project
